@@ -26,9 +26,9 @@ try to follow these guidelines when you do so.
 * Open a [pull request][6] that relates to *only* one subject with a clear title
   and description in grammatically correct, complete sentences.
 
-[1]: https://github.com/bbatsov/prelude/issues
-[2]: https://github.com/bbatsov/prelude/issues?q=is:issue
+[1]: https://github.com/phanviet/prelude/issues
+[2]: https://github.com/phanviet/prelude/issues?q=is:issue
 [3]: http://gun.io/blog/how-to-github-fork-branch-and-pull-request
 [4]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
-[5]: https://github.com/bbatsov/prelude/blob/master/CHANGELOG.md
+[5]: https://github.com/phanviet/prelude/blob/master/CHANGELOG.md
 [6]: https://help.github.com/articles/using-pull-requests

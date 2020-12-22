@@ -16,7 +16,7 @@ Given how modular the structure of Prelude is, there's relatively little to be g
 
 !!! Note
 
-    I have a stripped-down version of Prelude for personal use, based on `use-package` [here](https://github.com/bbatsov/emacs.d).
+    I have a stripped-down version of Prelude for personal use, based on `use-package` [here](https://github.com/phanviet/emacs.d).
     I guess it might be of interest to some of you.
 
 ## Why does Prelude use MELPA instead of MELPA Stable by default?

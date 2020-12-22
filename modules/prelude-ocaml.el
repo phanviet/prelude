@@ -3,7 +3,7 @@
 ;; Copyright © 2014-2020 Geoff Shannon
 ;;
 ;; Author: Geoff Shannon <geoffpshannon@gmail.com>
-;; URL: https://github.com/bbatsov/prelude
+;; URL: https://github.com/phanviet/prelude
 
 ;; This file is not part of GNU Emacs.
 

@@ -1,5 +1,5 @@
 site_name: "Prelude: A sleek, modern, simple and powerful Emacs experience for everyone"
-repo_url: https://github.com/bbatsov/prelude
+repo_url: https://github.com/phanviet/prelude
 copyright: "Copyright (C) 2011-2020 Bozhidar Batsov and Prelude contributors"
 docs_dir: doc
 pages:

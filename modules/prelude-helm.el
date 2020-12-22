@@ -3,7 +3,7 @@
 ;; Copyright © 2011-2020 Bozhidar Batsov
 ;;
 ;; Author: Bozhidar Batsov <bozhidar@batsov.com>
-;; URL: https://github.com/bbatsov/prelude
+;; URL: https://github.com/phanviet/prelude
 
 ;; This file is not part of GNU Emacs.
 
@@ -39,7 +39,7 @@
 (when (executable-find "curl")
   (setq helm-google-suggest-use-curl-p t))
 
-;; See https://github.com/bbatsov/prelude/pull/670 for a detailed
+;; See https://github.com/phanviet/prelude/pull/670 for a detailed
 ;; discussion of these options.
 (setq helm-split-window-in-side-p           t
       helm-buffers-fuzzy-matching           t

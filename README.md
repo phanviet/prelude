@@ -1,5 +1,5 @@
 [![License GPL 3][badge-license]](http://www.gnu.org/licenses/gpl-3.0.txt)
-[![Patreon](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/bbatsov)
+[![Patreon](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/phanviet)
 
 Emacs Prelude
 =============
@@ -15,10 +15,10 @@ Prelude is compatible **ONLY with GNU Emacs 25.1+**. In general you're
 advised to always run Prelude with the latest stable Emacs release.
 
 You can support the development of Prelude via
-[GitHub Sponsors](https://github.com/sponsors/bbatsov),
-[ko-fi](https://ko-fi.com/bbatsov),
-[PayPal](https://www.paypal.me/bbatsov) and
-[Patreon](https://www.patreon.com/bbatsov).
+[GitHub Sponsors](https://github.com/sponsors/phanviet),
+[ko-fi](https://ko-fi.com/phanviet),
+[PayPal](https://www.paypal.me/phanviet) and
+[Patreon](https://www.patreon.com/phanviet).
 
 ## Features
 
@@ -39,7 +39,7 @@ can skip the whole manual and just type in your favorite shell the
 following command:
 
 ```shellsession
-$ curl -L https://git.io/epre | sh
+$ curl -L https://raw.githubusercontent.com/phanviet/prelude/master/utils/installer.sh | sh
 ```
 
 You can now power up your Emacs, sit back and enjoy Prelude.
@@ -49,13 +49,13 @@ source repository and the installation directory. To change the
 installation directory:
 
 ```shellsession
-$ export PRELUDE_INSTALL_DIR="$HOME/.emacs.d" && curl -L https://github.com/bbatsov/prelude/raw/master/utils/installer.sh | sh
+$ export PRELUDE_INSTALL_DIR="$HOME/.emacs.d" && curl -L https://github.com/phanviet/prelude/raw/master/utils/installer.sh | sh
 ```
 
 To change the source repository:
 
 ```shellsession
-$ export PRELUDE_URL="https://github.com/yourname/prelude.git" && curl -L https://github.com/bbatsov/prelude/raw/master/utils/installer.sh | sh
+$ export PRELUDE_URL="https://github.com/yourname/prelude.git" && curl -L https://github.com/phanviet/prelude/raw/master/utils/installer.sh | sh
 ```
 
 Note that the installer will back up any existing `.emacs` file or
@@ -110,16 +110,16 @@ my Emacs blog [Emacs Redux](https://emacsredux.com).
 
 ## crux and super-save
 
-A lot of utility commands that used to be part of Prelude were eventually extracted to the [crux](https://github.com/bbatsov/crux) package,
+A lot of utility commands that used to be part of Prelude were eventually extracted to the [crux](https://github.com/phanviet/crux) package,
 so they'd be easily available to more people.
 These days Prelude simply depends on that package.
 
-The [super-save](https://github.com/bbatsov/super-save) package also used to be part of Prelude in the past.
+The [super-save](https://github.com/phanviet/super-save) package also used to be part of Prelude in the past.
 
 ## Known issues
 
 Check out the project's
-[issue list](https://github.com/bbatsov/prelude/issues?sort=created&direction=desc&state=open)
+[issue list](https://github.com/phanviet/prelude/issues?sort=created&direction=desc&state=open)
 a list of unresolved issues. By the way - feel free to fix any of them
 and send me a pull request. :-)
 
@@ -129,11 +129,11 @@ Support is available via several channels:
 
 * Prelude's Google Group <emacs-prelude@googlegroups.com>
 * Prelude's Freenode channel (`#prelude-emacs`)
-* [Gitter](https://gitter.im/bbatsov/prelude)
+* [Gitter](https://gitter.im/phanviet/prelude)
 
 ## Contributors
 
-Here's a [list](https://github.com/bbatsov/prelude/contributors) of all the people who have contributed to the
+Here's a [list](https://github.com/phanviet/prelude/contributors) of all the people who have contributed to the
 development of Emacs Prelude.
 
 ## Bugs & Improvements
@@ -144,7 +144,7 @@ welcome. GitHub pull requests are even better! :-)
 ## License
 
 Copyright © 2011-2020 Bozhidar Batsov and
-[contributors](https://github.com/bbatsov/prelude/contributors).
+[contributors](https://github.com/phanviet/prelude/contributors).
 
 Distributed under the GNU General Public License, version 3
 

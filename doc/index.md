@@ -13,10 +13,10 @@ Emacs power users.
     advised to always run Prelude with the latest stable Emacs release.
 
 You can support the development of Prelude via
-[GitHub Sponsors](https://github.com/sponsors/bbatsov),
-[ko-fi](https://www.ko-fi.com/bbatsov),
-[PayPal](https://www.paypal.me/bbatsov) and
-[Patreon](https://www.patreon.com/bbatsov).
+[GitHub Sponsors](https://github.com/sponsors/phanviet),
+[ko-fi](https://www.ko-fi.com/phanviet),
+[PayPal](https://www.paypal.me/phanviet) and
+[Patreon](https://www.patreon.com/phanviet).
 
 ## Features
 
@@ -33,21 +33,21 @@ Here are some of the essential 3rd party packages that Prelude adds to Emacs:
 
 * [ace-window](https://github.com/abo-abo/ace-window) (effective navigation between multiple windows)
 * [avy](https://github.com/abo-abo/avy) (effective navigation)
-* [crux](https://github.com/bbatsov/crux) (lots of useful editing commands)
+* [crux](https://github.com/phanviet/crux) (lots of useful editing commands)
 * [diff-hl](https://github.com/dgutov/diff-hl) (shows colorful diff markers in the gutter when you're editing files under version control)
 * [easy-kill](https://github.com/leoliu/easy-kill)
 * [editorconfig-mode](https://github.com/editorconfig/editorconfig-emacs) (teaches Emacs to respect [.editorconfig](https://editorconfig.org/))
 * [expand-region](https://github.com/magnars/expand-region.el)
 * [flycheck](https://www.flycheck.org/) (modern integration with many lint tools)
-* [guru-mode](https://github.com/bbatsov/guru-mode) (an Emacs guru that helps you learn basic Emacs keybindings)
-* [projectile](https://github.com/bbatsov/projectile) (powerful project navigation/interaction package)
+* [guru-mode](https://github.com/phanviet/guru-mode) (an Emacs guru that helps you learn basic Emacs keybindings)
+* [projectile](https://github.com/phanviet/projectile) (powerful project navigation/interaction package)
 * [magit](https://magit.vc/) (the best git client in the known universe)
 * [git-timemachine](https://gitlab.com/pidu/git-timemachine) (navigate quickly through different versions of one file)
 * `nlinum` (line numbers in your buffers)
 * [smartparens](https://github.com/Fuco1/smartparens) (powerful package for dealing with expressions and matched delimiters in programming languages)
-* [super-save](https://github.com/bbatsov/super-save) (auto-save buffers when moving around)
+* [super-save](https://github.com/phanviet/super-save) (auto-save buffers when moving around)
 * [which-key](https://github.com/justbur/emacs-which-key) (shows you possible keybindings when you type a partial keybinding)
-* [zenburn-theme](https://github.com/bbatsov/zenburn-emacs) (Prelude's default color theme)
+* [zenburn-theme](https://github.com/phanviet/zenburn-emacs) (Prelude's default color theme)
 * [undo-tree](https://elpa.gnu.org/packages/undo-tree.html) (A powerful way to navigate your editing history)
 
 On top of this Prelude bundles a bunch of smaller packages and makes many more packages available via optional modules.

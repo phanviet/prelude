@@ -3,7 +3,7 @@
 ;; Copyright (c) 2011-2020 Bozhidar Batsov
 ;;
 ;; Author: Bozhidar Batsov <bozhidar@batsov.com>
-;; URL: https://github.com/bbatsov/prelude
+;; URL: https://github.com/phanviet/prelude
 ;; Version: 1.1.0-snapshot
 ;; Keywords: convenience
 

@@ -44,7 +44,7 @@ a `.emacs.d` folder, it will be backed up as `.emacs.d.pre-prelude.tar`.
 If you're using `curl` type the following command:
 
 ```shellsession
-$ curl -L https://github.com/bbatsov/prelude/raw/master/utils/installer.sh | sh
+$ curl -L https://github.com/phanviet/prelude/raw/master/utils/installer.sh | sh
 ```
 
 #### Via Wget
@@ -52,7 +52,7 @@ $ curl -L https://github.com/bbatsov/prelude/raw/master/utils/installer.sh | sh
 If you're using `wget` type:
 
 ```shellsession
-$ wget --no-check-certificate https://github.com/bbatsov/prelude/raw/master/utils/installer.sh -O - | sh
+$ wget --no-check-certificate https://github.com/phanviet/prelude/raw/master/utils/installer.sh -O - | sh
 ```
 
 ### Manual
@@ -60,7 +60,7 @@ $ wget --no-check-certificate https://github.com/bbatsov/prelude/raw/master/util
 Make sure you do not have any `~/.emacs` file or `~/.emacs.d` folder present.
 
 ```shellsession
-$ git clone git://github.com/bbatsov/prelude.git path/to/local/repo
+$ git clone git://github.com/phanviet/prelude.git path/to/local/repo
 $ ln -s path/to/local/repo ~/.emacs.d
 $ cd ~/.emacs.d
 ```

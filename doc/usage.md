@@ -158,7 +158,7 @@ You can also temporarily swap them with `C-c w` (`M-x prelude-swap-meta-and-supe
 
 #### Projectile
 
-[Projectile](https://github.com/bbatsov/projectile) is one of the essential packages bundled with Prelude.
+[Projectile](https://github.com/phanviet/projectile) is one of the essential packages bundled with Prelude.
 It provides an easy way to navigate and switch projects. Take a look at its extensive documentation
 to get a feel for everything you can do with Projectile.
 

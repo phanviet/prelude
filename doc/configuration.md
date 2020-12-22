@@ -33,7 +33,7 @@ Emacs provides a dozen of
 built-in themes you can use out-of-the-box by invoking the `M-x
 load-theme` command.
 
-[Zenburn](https://github.com/bbatsov/zenburn-emacs) is the default
+[Zenburn](https://github.com/phanviet/zenburn-emacs) is the default
 color theme in Prelude, but you can change it at your discretion. Why
 Zenburn? I (and lots of hackers around the world) find it pretty neat
 for some reason. Personally I find the default theme pretty tiresome
@@ -56,7 +56,7 @@ Or you can use another theme altogether by adding something in `personal/preload
 
 !!! Note
 
-    To use a non-built-in theme, like [Solarized](https://github.com/bbatsov/solarized-emacs),
+    To use a non-built-in theme, like [Solarized](https://github.com/phanviet/solarized-emacs),
     you'll have to install it from MELPA first by `M-x package-install RET solarized-theme`. Then add
 
 ```emacs-lisp

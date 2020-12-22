@@ -8,7 +8,7 @@ use the support channels to report issues, as this makes them harder to track.
 ## Gitter
 
 Most internal discussions about the development of Prelude happen on its
-[gitter channel](https://gitter.im/bbatsov/prelude).  You can often find
+[gitter channel](https://gitter.im/phanviet/prelude).  You can often find
 Prelude's maintainers there and get some interesting news from the project's
 kitchen.
 

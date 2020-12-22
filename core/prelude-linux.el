@@ -3,7 +3,7 @@
 ;; Copyright © 2011-2020 Bozhidar Batsov
 ;;
 ;; Author: Stanislav Arnaudov <stanislav_ts@avb.bg>
-;; URL: https://github.com/bbatsov/prelude
+;; URL: https://github.com/phanviet/prelude
 
 ;; This file is not part of GNU Emacs.
 

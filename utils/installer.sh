@@ -57,7 +57,7 @@ colors_ () {
 #   Enable colors
 # -s/--source [url]
 #   Clone prelude from 'url'.
-#   Defaults to 'https://github.com/bbatsov/prelude.git'
+#   Defaults to 'https://github.com/phanviet/prelude.git'
 # -i/--into
 #   If one exists, install into the existing config
 # -n/--no-bytecompile
@@ -74,7 +74,7 @@ usage() {
     printf "  \t \t \t \t If 'dir' is a relative path prefix with $HOME.\n"
     printf "  \t \t \t \t Defaults to $HOME/.emacs.d\n"
     printf "  -s, --source [url] \t \t Clone Prelude from 'url'.\n"
-    printf "  \t \t \t \t Defaults to 'https://github.com/bbatsov/prelude.git'.\n"
+    printf "  \t \t \t \t Defaults to 'https://github.com/phanviet/prelude.git'.\n"
     printf "  -n, --no-bytecompile \t \t Skip the bytecompilation step of Prelude.\n"
     printf "  -i, --into \t \t \t Install Prelude into a subdirectory in the existing configuration\n"
     printf "  \t \t \t \t The default behavior is to install Prelude into the existing\n"
@@ -125,7 +125,7 @@ done
 
 VERBOSE_COLOR=$BBLUE
 
-[ -z "$PRELUDE_URL" ] && PRELUDE_URL="https://github.com/bbatsov/prelude.git"
+[ -z "$PRELUDE_URL" ] && PRELUDE_URL="https://github.com/phanviet/prelude.git"
 [ -z "$PRELUDE_INSTALL_DIR" ] && PRELUDE_INSTALL_DIR="$HOME/.emacs.d"
 
 if [ x$PRELUDE_VERBOSE != x ]
