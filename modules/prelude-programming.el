@@ -81,5 +81,9 @@
     (global-flycheck-mode +1)
   (add-hook 'prog-mode-hook 'flycheck-mode))
 
+;;go to definition
+(prelude-require-packages '(dumb-jump))
+(add-hook 'xref-backend-functions #'dumb-jump-xref-activate)
+
 (provide 'prelude-programming)
 ;;; prelude-programming.el ends here
